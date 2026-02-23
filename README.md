@@ -27,7 +27,7 @@ Developed an interactive Power BI dashboard to analyze heart disease patient dat
 - Middle-aged patients form the largest group.
 
 ## Dashboard Output
-![Heart Disease Analytics Dashboard](https://github.com/wince0727/Heart-Disease-Analytics-Dashboard/blob/main/Dashboard.png)
+![Heart Disease Analytics Dashboard](Dashboard.png)
 
 
 ## Status
