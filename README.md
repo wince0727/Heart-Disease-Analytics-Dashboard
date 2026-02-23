@@ -25,9 +25,9 @@ Developed an interactive Power BI dashboard to analyze heart disease patient dat
 - Survival rates vary across age groups.  
 - Higher cholesterol levels impact survival outcomes.  
 - Middle-aged patients form the largest group.
-
 ## Dashboard Output
-![Heart Disease Analytics Dashboard](https://github.com/wince0727/Heart-Disease-Analytics-Dashboard/blob/main/dashboard.png)
+
+![Heart Disease Analytics Dashboard](Dashboard.png)
 
 
 ## Status
